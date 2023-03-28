@@ -8,7 +8,7 @@ const InfoPage = () => {
             <p>Une PWA est un site internet responsive (s'adaptant à l'écran de l'appareil) téléchargeable sur l'écran d'accueil de votre appareil afin :
                 <ul>- d'être accessible rapidement</ul>
                 <ul>- d'avoir la possibilité de l'utiliser hors ligne</ul>
-                <ul>- ayant la capacité d'utiliser certaines fonctionnalités de l'appareil (ex pour les appareils mobiles: envoie de notifications, vibrations, etc.)</ul></p>
+                <ul>- d'avoir la capacité d'utiliser certaines fonctionnalités de l'appareil (ex pour les appareils mobiles: envoie de notifications, vibrations, etc.)</ul></p>
             <br />
             <h2>Sur quels appareils ?</h2>
             <p>Vous pouvez télécharger la PWA sur smartphones et tablettes iOS, Android, et sur PC</p>
